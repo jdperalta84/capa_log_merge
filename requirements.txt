@@ -1,6 +1,2 @@
-pandas>=1.5.0
-openpyxl>=3.0.0
-
-Script to enter into Powershell
-cd "C:\Users\Amspec\Downloads\CAPA_Log_Merge"
-python merge.py
+pandas>=2.2
+openpyxl>=3.1
